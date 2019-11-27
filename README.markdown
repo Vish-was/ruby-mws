@@ -1,6 +1,3 @@
-# ruby-mws [DEPRECATED]
-
-by Erik Lyngved
 
 ruby-mws is a Ruby gem that wraps the Amazon Marketplace Web Service (MWS) API.
 
